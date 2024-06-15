@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Items, range and filter.md",
+                "file": "Algorithm/一道Bitset算法题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Items, range and filter.md",
+                "file": "Algorithm/一道Bitset算法题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Items, range and filter.md",
+                "file": "Algorithm/一道Bitset算法题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Items, range and filter.md"
+                "file": "Algorithm/一道Bitset算法题.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "01ffa86d55534b0b",
   "lastOpenFiles": [
-    "Algorithm/一道Bitset算法题.md",
     "Python/Items, range and filter.md",
+    "Algorithm/一道Bitset算法题.md",
     "Python",
     "Algorithm",
     "Untitled 1.canvas",
