@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "03b6b7a122af3f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "49737ae59b680201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ffa86d55534b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Items, range and filter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ed6d0a8bc7d4dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70890c4b510fad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c832b6316714dad0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba7bda8cbca49a32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4696d43d6e5de047",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0636d63d7099789a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bfde83fc5f41a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20c641a96b6b52e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Items, range and filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de8a6c81dcd5e675",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/Items, range and filter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0ed5eb3e2847928",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba689c8d714c8b64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/Items, range and filter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01ffa86d55534b0b",
+  "lastOpenFiles": [
+    "Algorithm/一道Bitset算法题.md",
+    "Python/Items, range and filter.md",
+    "Python",
+    "Algorithm",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas"
+  ]
+}
