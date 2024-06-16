@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f8b11c3ff80735f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/SegmentTree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md",
+                "file": "Algorithm/SegmentTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md",
+                "file": "Algorithm/SegmentTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md"
+                "file": "Algorithm/SegmentTree.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ffa86d55534b0b",
+  "active": "5f8b11c3ff80735f",
   "lastOpenFiles": [
-    "Python/Items, range and filter.md",
     "Algorithm/一道Bitset算法题.md",
+    "Algorithm/SegmentTree.md",
+    "Python/Items, range and filter.md",
     "Python",
     "Algorithm",
     "Untitled 1.canvas",
