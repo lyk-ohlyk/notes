@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c832b6316714dad0",
+  "active": "01ffa86d55534b0b",
   "lastOpenFiles": [
+    "Thoughts/如何设计奖励机制？.md",
+    "Thoughts",
+    "Algorithm/SegmentTree.md",
     "Python/Items, range and filter.md",
     "Algorithm/一道Bitset算法题.md",
     "Python",
