@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md",
+                "file": "Algorithm/SegmentTree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md",
+                "file": "Algorithm/SegmentTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md",
+                "file": "Algorithm/SegmentTree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/一道Bitset算法题.md"
+                "file": "Algorithm/SegmentTree.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01ffa86d55534b0b",
+  "active": "c832b6316714dad0",
   "lastOpenFiles": [
-    "Thoughts/如何设计奖励机制？.md",
-    "Thoughts",
-    "Algorithm/SegmentTree.md",
-    "Python/Items, range and filter.md",
     "Algorithm/一道Bitset算法题.md",
+    "Algorithm/SegmentTree.md",
+    "Thoughts/如何设计奖励机制？.md",
+    "Python/Items, range and filter.md",
+    "Thoughts",
     "Python",
     "Algorithm",
     "Untitled 1.canvas",
